@@ -2,8 +2,8 @@
 
 #Matthew Wander
 #networkFileRW.py
-#GPA 8: Working With Files
-#8/6/2023
+#GPA 9: Git & GitHub (solution for GPA 8)
+#8/7/2023
 
 
 #Try/except clause to import JSON module
